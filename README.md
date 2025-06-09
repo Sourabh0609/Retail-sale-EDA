@@ -30,9 +30,9 @@ This project involves *Exploratory Data Analysis (EDA)* on a retail sales datase
 
 # Key Insights
 
-- 🔻 *Texas, Colorado, and Illinois* are the top loss-making states.
-- 📉 Discounts are *negatively correlated with profit* (correlation ≈ -0.22).
-- 🌎 *West and South* regions perform better in terms of profitability.
+-  *Texas, Colorado, and Illinois* are the top loss-making states.
+-  Discounts are *negatively correlated with profit* (correlation ≈ -0.22).
+-  *West and South* regions perform better in terms of profitability.
 -  Sub-categories like *"Chairs"* and *"Tables"* show frequent losses.
 
 
