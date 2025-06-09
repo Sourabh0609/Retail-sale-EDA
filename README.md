@@ -1,4 +1,4 @@
-# Retail-sale-EDA
+
 # Retail Sales EDA – Superstore Dataset
 
 This project involves *Exploratory Data Analysis (EDA)* on a retail sales dataset (Sample Superstore). The goal is to identify key business insights like loss-making states, profit trends, and correlations that can help improve profitability.
